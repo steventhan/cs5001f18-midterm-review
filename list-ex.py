@@ -47,8 +47,19 @@ Output: [4,3,2,2]
 Explanation: The array represents the integer 4321.
 """
 
+""" 
+5. Design a function that verifies a list of password. Try to see if you
+can solve it using a recursive approach.
 """
-5. Design a function to find out if a list is monotonic. A list is monotonic 
+
+""" 
+6. Design a function that gives a list of valid passwords. Try to see if you
+can solve it using a recursive approach.
+"""
+
+
+"""
+7. Design a function to find out if a list is monotonic. A list is monotonic 
 if it is either monotone increasing or monotone decreasing.
 
 Example 1:
